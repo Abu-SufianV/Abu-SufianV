@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hola, my curious friend👋
 
 This is a website that I am writing on the following technology stack: Python, Django, PostgreSQL, Bootstrap 5 
+
+Now it is only in the development stage and there is almost nothing there, so come back later, it will be more interesting)
 
 Website: https://abu-sufianv.github.io/Abu-SufianV/
 <!--
